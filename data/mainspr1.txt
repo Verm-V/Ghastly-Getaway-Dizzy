@@ -1,0 +1,60 @@
+;x,y,wid,hgt
+;formats:
+;[b: b/w tiles: wid, hgt, data]
+;B: colour tiles: wid, hgt, data
+;s: b/w sprites: wid8, hgt, (antimask, antipixels, ...)
+;[S: colour sprites: wid8, hgt, (antimask, antipixels, ...)]
+;T: colour tilepic 28xN (size 0xN00 bytes)
+idle0=s,0,0,24,24
+idle1=s,24,0,24,24
+
+stun0=s,48,0,24,24
+stun1=s,72,0,24,24
+stun2=s,96,0,24,24
+stun3=s,120,0,24,24
+stun4=s,144,0,24,24
+
+walkright0=s,0,24,24,24
+walkright1=s,24,24,24,24
+walkright2=s,48,24,24,24
+walkright3=s,72,24,24,24
+walkright4=s,96,24,24,24
+walkright5=s,120,24,24,24
+walkright6=s,144,24,24,24
+walkright7=s,168,24,24,24
+
+walkleft0=s,0,48,24,24
+walkleft1=s,24,48,24,24
+walkleft2=s,48,48,24,24
+walkleft3=s,72,48,24,24
+walkleft4=s,96,48,24,24
+walkleft5=s,120,48,24,24
+walkleft6=s,144,48,24,24
+walkleft7=s,168,48,24,24
+
+jump0=s,0,72,24,24
+jump1=s,24,72,24,24
+jump2=s,48,72,24,24
+jump3=s,72,72,24,24
+jump4=s,96,72,24,24
+jump5=s,120,72,24,24
+jump6=s,144,72,24,24
+jump7=s,168,72,24,24
+
+jumpr0=s,0,96,24,24
+jumpr1=s,24,96,24,24
+jumpr2=s,48,96,24,24
+jumpr3=s,72,96,24,24
+jumpr4=s,96,96,24,24
+jumpr5=s,120,96,24,24
+jumpr6=s,144,96,24,24
+jumpr7=s,168,96,24,24
+
+jumpl0=s,0,120,24,24
+jumpl1=s,24,120,24,24
+jumpl2=s,48,120,24,24
+jumpl3=s,72,120,24,24
+jumpl4=s,96,120,24,24
+jumpl5=s,120,120,24,24
+jumpl6=s,144,120,24,24
+jumpl7=s,168,120,24,24

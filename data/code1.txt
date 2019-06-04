@@ -1,0 +1,4 @@
+
+Initialisation
+푽
+//Initializing the player's initial position@@@@@@@@gameset(pl_devmode,false)@@@@@@@@gameset(pl_visible,false)@@@@//gameset(pl_lives,0)@@@@gameset(pl_x,112)	//Player inner coordinates@@@@gameset(pl_y,96)@@@@gotoroom(0,0)	//move to the right room@@@@gameset(pl_visible,true)@@@@@@@@//Then you can place your code

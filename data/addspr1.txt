@@ -1,0 +1,33 @@
+;x,y,wid,hgt
+;formats:
+;[b: b/w tiles: wid, hgt, data]
+;B: colour tiles: wid, hgt, data
+;s: b/w sprites: wid8, hgt, (antimask, antipixels, ...)
+;[S: colour sprites: wid8, hgt, (antimask, antipixels, ...)]
+;T: colour tilepic 28xN (size 0xN00 bytes)
+spr0=s,0,0,24,8
+spr1=s,24,0,24,8
+spr2=s,48,0,24,8
+spr3=s,72,0,24,8
+spr4=s,96,0,8,8
+spr5=s,0,8,32,16
+spr6=s,32,8,32,16
+spr7=s,64,8,16,16
+spr8=s,80,8,24,24
+spr9=s,0,24,32,16
+spr10=s,32,24,32,8
+spr11=s,64,24,8,8
+spr12=s,72,24,8,8
+spr13=s,32,32,16,8
+spr14=s,48,32,16,8
+spr15=s,64,32,8,16
+spr16=s,0,40,32,8
+spr17=s,32,40,32,8
+spr18=s,72,32,16,16
+spr19=s,88,32,16,16
+spr20=s,0,48,32,16
+spr21=s,32,48,32,16
+spr22=s,64,48,8,8
+spr23=s,64,56,8,8
+spr24=s,72,48,16,16
+spr25=s,88,48,16,16

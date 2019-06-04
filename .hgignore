@@ -1,0 +1,16 @@
+syntax: glob
+*.bak
+*.log
+push.bat
+pull.bat
+update.bat
+clone.bat
+I2M-commits.bat
+I2M-issues.bat
+I2M-pullrequests.bat
+db-1.0.json
+*.asm
+*.h
+*.bin
+*.0
+*.trd
