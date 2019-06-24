@@ -1,4 +1,4 @@
-Ghastly Getaway Dizzy V0.00 (ZX Spectrum edition)
+Ghastly Getaway Dizzy V0.01 (ZX Spectrum edition)
 
 This game is demake of DizzyAGE PC game "Ghastly Getaway Dizzy"
 
@@ -38,7 +38,7 @@ Beta testing: ...
 
 ====================================
 
-Ghastly Getaway Dizzy V0.00
+Ghastly Getaway Dizzy V0.01
 
 Демейк PC-игры "Ghastly Getaway Dizzy" на движке DizzyAGE
 
