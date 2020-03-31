@@ -14,3 +14,5 @@ db-1.0.json
 *.bin
 *.0
 *.trd
+issues/*
+temp/*
