@@ -1,10 +1,10 @@
 
 unnamed
-풁)
+폆)
 //Initializing the player's initial position@@@@@@@@gameset(pl_devmode,true)@@@@@@@@//events@@@@gameset(evt_enter_death,3)@@@@gameset(evt_animation_end,ID_LIGHTNING)@@@@@@@@gameset(pl_visible,false)@@@@//gameset(pl_lives,0)@@@@gameset(pl_x,112)	//Player inner coordinates@@@@gameset(pl_y,96)@@@@gotoroom(0,3)	//move to the right room@@@@gameset(pl_visible,true)@@@@@@@@//Then you can place your code2
 2lightning
-풪/
+폯/
 objget(this,O_MAP_Y)@@@@ne(ret,36,light)@@@@inc(ret)@@@@objset(this,O_MAP_Y,ret)@@@@objset(this,O_DELAY,1)@@@@exit()@@@@@@@@light:@@@@dec(ret)@@@@objset(this,O_MAP_Y,ret)@@@@random(50)@@@@set(j,50)@@@@add(ret,j)@@@@objset(this,O_DELAY,ret)@@@@
 death
-퓙-
+퐞-
 //calculate room number@@@@gameget(pl_roomx)@@@@set(j,ret)@@@@gameget(pl_roomy)@@@@add(ret,ret)@@@@add(ret,ret)@@@@add(ret,ret)@@@@add(ret,j)@@@@@@@@gameset(pl_coins,ret)@@@@redraw_hud()@@@@@@@@eq(ret,9,room_1_1)@@@@exit()@@@@@@@@//room with ghosts@@@@room_1_1:@@@@gameset(pl_resp_x,208)@@@@gameset(pl_resp_y,88)@@@@exit()@@@@@@@@
