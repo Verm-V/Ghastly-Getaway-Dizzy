@@ -1,118 +1,880 @@
 =0===================
-   you are carying
-
+   YOU ARE CARRYING
 =1===================
-       nothing
-
+        empty
 =2===================
  exit and don't drop
-
 =3===================
-  select an item
-
+   choose item
 =4===================
-dizzy lost one life
-
+  YOU LOSE A LIFE!  
 =5===================
-dizzy lost last life
-
+YOU HAVE LOST
+ALL YOUR LIVES!
 =6===================
-Dizzy can not
-carry so much
-
+YOUR HANDS
+ARE FULL!
 =7===================
-Hello,
-I was late with the car,
-the girl should 
-have warn.
+Hello, I was late
+with the car,
+the girl should
+have warned you.
 =8===================
-Welcome
-to our hotel, sir.
+welcome to
+our hotel,
+sir.
 =9===================
-yes, the lady is 
-already in the room.
+yes, the lady
+is already in
+the room.
 =10===================
-    тяжелый палаш
-
+A HEAVY BROADSWORD
 =11===================
-   зловещее блюдце
-
+A SINISTER SAUCER
 =12===================
- топор джека торенса
-
+JACK TORRENCE'S WOODAXE
 =13===================
-      острый нож
-
+A SHARP SWITCHBLADE
 =14===================
-    ключ от двери1
-
+A YELLOW KEY
 =15===================
-    ключ от двери2
-
+A RED KEY
 =16===================
-    ключ от двери3
-
+A GREEN KEY
 =17===================
-    ключ от двери4
-
+A CYAN KEY
 =18===================
-    веревка палача
-
+HANGMAN'S ROPE
 =19===================
-   трухлявое бревно
-
+A WOODWORMY LOG
 =20===================
-     рулон бинтов
-
+A ROLL OF BANDAGES
 =21===================
-   золотой скребок
-
+A GOLDEN SQUEEGEE
 =22===================
-    смердящий сыр
-
+EVIL SMELLING CHEESE
 =23===================
-  книга сделай сам
-
+DIY FENCING MANUAL
 =24===================
-   колдовская книга
-
+THE SORTIE GRIMOIRE
 =25===================
-     анатомия яиц
-
+EGG SEPARATION MANUAL
 =26===================
-       масленка
-
+A CAN OF BOIL OIL
 =27===================
-    золотое ведро
-
+A GOLDEN BUCKET
 =28===================
-  злорадный молоток
-
+A MALEVOLENT MALLET
 =29===================
-   золотая метелка
-
+A GOLDEN LADDER
 =30===================
-     вороньи лапы
-
+A STRANGE POTION
 =31===================
-      кусок окна
-
+DIZZY? DIZZY?
+WHERE ARE YOU GOING?
+COME BACK!!!
 =32===================
-     блюдце крови
-
+A SAUCER OF BLOOD
 =33===================
- корзина с завтраком
-
+A BREAKFAST BASKET
 =34===================
-       черепица
-
+COME BACK!!!
 =35===================
-What the heck!
-What's happening?
+WHAT THE HECK?
+WHAT'S HAPPENING?!
 =36===================
-A little later 
-that night
-=37===================
-1
-2
+A LITTLE LATER
 
+THIS NIGHT.
+=37===================
+Dizzy found
+an interesting book
+on the bookshelf.
+=38===================
+ IT WON'T HELP HERE.
+=39===================
+STRANGE, I DON'T
+REMEMBER LOCKING
+THAT DOOR!
+=40===================
+YOU FLICK THROUGH
+THE PAGES OF THE TOME
+AND ALTHOUGH IT'S
+MOSTLY IN LATIN,
+YOU MANAGE TO
+READ SOME ALOUD...
+=41===================
+THE BOOK DISAPPEARS
+IN A BRIGHT FLASH
+AND THE DOOR
+MAGICALLY OPENS!
+=42===================
+HA HA!
+PREPARE TO DIE
+INNOCENT GUEST!
+=43===================
+FROM NOWHERE
+A BLADE HURTLES
+THROUGH THE
+AIR NARROWLY
+MISSING YOU.
+=44===================
+CRIPES, YOU COULD
+HURT SOMEBODY
+DOING THAT!
+WHO'S RESPONSIBLE?
+=45===================
+I'M SORRY,
+I THOUGHT
+YOU WERE ONE
+OF THE HUMANS,
+I REALLY ENJOY
+SCARING THEM.
+=46===================
+WHO SAID THAT?
+SHOW YOURSELF AT ONCE!
+=47===================
+THE PLANT BESIDE YOU.
+=48===================
+EEK!
+A TALKING PLANT!
+=49===================
+WHAT'S SCARY ABOUT
+THAT? YOU'RE
+A TALKING EGG.
+=50===================
+WELL I'M A
+NICE EGG AND
+I DON'T TRY TO
+STAB PEOPLE!..
+=51===================
+I'M GOING TO
+CONFISCATE THIS
+KNIFE AND I
+WANT YOU TO
+THINK ABOUT WHAT
+YOU'VE DONE!
+=52===================
+THE PLANT STARTS
+TO USE SOME
+VERY BAD LANGUAGE.
+=53===================
+PFFT!
+I THINK YOU
+NEED RE-POTTING!
+=54===================
+MMPHH, MMMPPH!..
+=55===================
+CRIPES, A MUMMY!
+=56===================
+THE BANDAGED BODY
+LUMBERS TOWARD YOU
+REACHING OUT...
+=57===================
+MMMPPH,
+ARRGHHH, MMPHH!
+=58===================
+EEK! I'M GETTING
+OUT OF HERE...
+=59===================
+GRRR, ARRGGH!
+=60===================
+THE MUMMY STAGGERS
+AROUND THE ROOM
+FLAILING ITS ARMS...
+=61===================
+YOU'RE SCARED TO
+A STIFF PEAK
+BUT BRAVELY REACH
+UP AND SHAKILY
+CUT OFF SOME OF
+THE BANDAGES FROM
+AROUND ITS HEAD...
+=62===================
+...REVEALING A VERY
+HUMAN FACE UNDERNEATH.
+=63===================
+OH WHAT A RELIEF!
+THANK YOU MY FRIEND.
+=64===================
+WAIT, YOU'RE NO
+MONSTER. WHAT ARE
+YOU DOING DOWN HERE?
+=65===================
+I MADE A COMPLAINT
+ABOUT THE MAID
+SERVICE AND THE
+NEXT THING I
+KNEW I WAS WRAPPED
+UP IN THIS CELLAR!
+=66===================
+I'M NOT STAYING
+HERE ONE MORE
+MINUTE,
+AND YOU
+SHOULD GET OUT OF
+HERE TOO EGG...
+=67===================
+WHILST YOU STILL CAN!
+=68===================
+AND WITH THAT HE
+DARTS OFF UPSTAIRS,
+LEAVING BEHIND A
+PILE OF BANDAGES.
+=69===================
+GOOD EVENING, I HOPE
+EVERYTHING IS TO
+SIR'S SATISFACTION.
+=70===================
+WELL, NO ACTUALLY
+IT ISN'T! OUR BED
+IS FLYING AROUND THE
+ROOM AND ONE OF
+THE PAINTINGS IS
+BLEEDING...
+=71===================
+PARDON MY IGNORANCE,
+BUT WHAT IS SIR'S
+PROBLEM EXACTLY?
+=72===================
+ARE YOU JOKING?
+THE FLYING BED!!!
+THE BLEEDING PAINTING!!!
+=73===================
+REALLY? MOST PEOPLE
+PAY EXTRA FOR THAT.
+=74===================
+OH FORGET IT.
+I JUST WANT
+TO LEAVE...
+=75===================
+OH I'M VERY SORRY
+SIR BUT THE DOORS
+ARE LOCKED AT
+ELEVEN AND WON'T
+BE OPENED AGAIN
+UNTIL SUNRISE...
+=76===================
+ALL KINDS OF
+UNDESIRABLES OUT
+THERE SIR.
+=77===================
+See you next time!
+=78===================
+FINE, I SHALL HAVE
+TO FIND MY OWN
+WAY OUT WON'T I?!
+=79===================
+VERY GOOD, AS
+SIR LIKES IT.
+=80===================
+YOU RATTLE THE DOOR
+BUT IT'S LOCKED...
+=81===================
+AS I SAID SIR,
+THE DOOR REMAINS
+CLOSED UNTIL DAWN.
+=82===================
+THE MANAGER LEAVES
+THE DESK AND
+STANDS IN FRONT
+OF THE DOOR...
+=83===================
+NOW, IF SIR DOESN'T
+MIND. I'LL STAND
+HERE FOR A SPELL.
+=84===================
+YOU TAKE THE HINT
+AND TURN TO LEAVE
+BUT NOTICE THE
+UNATTENDED KEYS
+BEHIND THE DESK...
+=85===================
+YOU TRY TO OPEN
+THE KEY CASE BUT
+IT'S LOCKED TOO!
+=86===================
+THAT'S ONLY A
+SMALL LOCK, THERE
+MUST BE A WAY
+TO GET IT OPENED.
+=87===================
+YOU RAISE THE AXE
+AS HIGH AS YOU
+CAN AND SWING IT
+DOWN HARD...
+=88===================
+TAKING THE LOCK
+CLEAN OFF, IT SPILLS
+THE KEYS EVERYWHERE
+AND FLIES RIGHT OUT
+OF YOUR GLOVES AND
+ACROSS THE LOBBY!
+=89===================
+YES, THAT'S THE
+WAY SIR. NOTHING
+LIKE A SPOT OF
+VIOLENCE TO GET
+THE POINT ACROSS!
+=90===================
+OH GOSH, I'M
+TERRIBLY SORRY...
+I DIDN'T MEAN...
+=91===================
+NOT AT ALL SIR.
+BRIGHTENED UP MY
+EVENING A TREAT IT
+HAS. ALTHOUGH...
+=92===================
+I AM FEELING
+A LITTLE WOOZY.
+PERHAPS I'LL HAVE
+A QUICK NAP
+IN MY COFFIN.
+=93===================
+WOULD YOU MIND
+AWFULLY KEEPING AN
+EYE ON THINGS
+DOWN HERE, SIR.
+JUST FOR AN
+HOUR OR TWO?
+=94===================
+THE MANGLED MANAGER
+SLOUCHES OFF LEAVING
+A LONG, BLOODY
+TRAIL BEHIND HIM!
+=95===================
+THE DOOR
+CREAKS OPEN...
+=96===================
+YOU BANDAGE UP
+THE PICTURE AND THE
+BLEEDING STOPS...
+=97===================
+I KNEW THAT
+FIRST AID COURSE
+WAS WORTHWHILE!
+=98===================
+THE BANQUET TABLE
+HAS A STRANGE
+AIR OF DREAD
+ABOUT IT...
+=99===================
+PERHAPS IT'S THE
+DRAFT COMING THROUGH
+THE VENT BELOW...
+=100===================
+OR PERHAPS IT'S
+THE SKELETON CHAIRS!
+=101===================
+YOU DROP THE
+WORMY WOOD ON
+THE TABLE...
+=102===================
+OKAY LITTLE WORMS,
+HERE'S A NICE
+BIT OF OAK FOR
+YOU TO EAT
+YOUR WAY THROUGH!
+=103===================
+BUT THE WORMS
+STAY PUT, HAPPILY
+MUNCHING AWAY
+AT THEIR LOG.
+=104===================
+YOU READ ALOUD
+A PASSAGE FROM
+THE MANUAL...
+=105===================
+THE BOOK VAPOURISES
+AND, AS IF BY
+MAGIC, THE WOODWORM
+BECOME SEPARATED FROM
+THE MOULDY OLD LOG!
+=106===================
+THEN PROCEED TO
+DEVOUR MOST
+OF THE TABLETOP!
+=107===================
+YOU SQUIRT THE
+OIL ALL OVER
+THE GRATE AND
+FIND YOU CAN
+SLIDE BETWEEN THE
+BARS WITH EASE!
+=108===================
+OOH, WHAT A NICE
+BIG EGG YOU ARE!
+I COULD MAKE STAR
+OF YOU, YES?
+A STAR-TER... TEEHE!
+=109===================
+LISTEN LADY, THIS
+EGG'S NOT FOR EATING!
+=110===================
+I JOKE! I JOKE!
+BUT WHAT FOR
+DO YOU COME TO
+MY KITCHEN THEN?
+=111===================
+I'M TRYING TO GET
+MY GIRLFRIEND OUT
+OF THIS HOTEL.
+WE REALLY AREN'T
+HAPPY HERE...
+=112===================
+FOR MOST, THE POINT
+THAT IS. BUT I
+UNDERSTAND, NOT FOR
+ALL PEOPLE THIS
+PLACE. I CAN HALP BUT
+HALP ME FIRST, YES?
+=113===================
+IT DEPENDS WHAT YOU
+WANT ME TO DO!
+=114===================
+NO, IS NICE!
+I BAKE PAMPKIN PIE
+I NEED PAMPKINS,
+YOU BRING THIRTEEN
+I HALP YOU!
+=115===================
+THAT SOUNDS FAIR, I'LL
+BE RIGHT BACK...
+=116===================
+AH, WELL DONE
+CLEVER EGG. YOU
+FIND ENOUGH PAMPKINS
+FOR THE PIE...
+I BAKE IT NOW!
+=117===================
+IT WASN'T EASY,
+BUT I MUST ASK
+YOU TO DO AS YOU
+PROMISED AND HELP
+ME GET MY GIRLFRIEND
+OUT OF HERE...
+=118===================
+I LADY OF MY
+WORD BUT YOU NEED
+NO HELP NOW AS
+DAWN HAS ARRIVED AND
+YOU MAY LEAVE HERE
+WHENEVER IS PLEASING!
+=119===================
+OH FOR CRYING
+OUT LOUD...
+=120===================
+YES WE ALL ENJOY
+A BIT OF THAT,
+BUT FOR ALL YOUR
+TROUBLES PLEASE TAKE
+THIS COMPLIMENTARY
+BREAKFAST FOR BED.
+=121===================
+IT WAKES YOUR LOVE
+UP NICELY, YES?
+=122===================
+OH WELL, I SUPPOSE
+THAT'S VERY NICE OF
+YOU. THANKS...
+=123===================
+ALAS MY SWEET,
+AS MUCH AS I
+LOVE GOOD CHEAT
+I REQUIRING ALL
+THIRTEEN PAMPKINS.
+AND NO LESS!
+=124===================
+IT'S LOCKED.
+=125===================
+AS SOON AS YOU
+ENTER THE ROOM A
+LARGE MOUSE AT THE
+OTHER END STARTS
+YELLING AT YOU...
+=126===================
+BEWARE THE TERRIBLE
+TRAPS, THEY'LL SEND
+YOUR NOSE TO YOUR
+TAIL, AND YOUR TAIL
+TO YOUR NOSE.
+SQUEEK, SQUEEK!
+=127===================
+THE STINKING CHEESE
+SEEMS TO HAVE SOME
+SORT OF EFFECT ON
+THE MOUSETRAPS...
+=128===================
+SQUEEK, SQUEEK!
+WELL DONE, MANY
+HAVE TRIED TO OUTWIT
+THE TRAPS BUT NONE
+HAVE SUCCEEDED UNTIL
+YOU. SQUEEK, SQUEEK!
+=129===================
+NOW I CAN FINALLY
+GET BACK HOME TO
+MY WIFE. SHE'LL
+BE WONDERING WHERE
+I'VE BEEN, SQUEEK!
+=130===================
+HERE, GIVE HER THIS
+CHEESE. YOU SHOULDN'T
+GET INTO QUITE AS
+MUCH TROUBLE IF YOU
+RETURN BEARING GIFTS!
+=131===================
+SQUEEK, SQUEEK!
+THANK YOU AND
+GOODBYE LITTLE EGG!
+=132===================
+THE FRIENDLY MOUSE
+SCAMPERS AWAY HOME
+CARRYING THE CHEESE
+ON HIS BACK.
+=133===================
+THANK GOODNESS I'M
+RID OF THAT. IT
+WAS STARTING TO MAKE
+MY GLOVES SMELL AWFUL!
+=134===================
+MEOW!
+=135===================
+A THREE-HEADED CAT?
+GOSH, YOU DON'T SEE
+MANY OF THOSE!
+=136===================
+SUDDENLY THE MALICIOUS
+MOGGY POUNCES AT YOU,
+HISSING AND SLASHING
+WITH ITS SHARP CLAWS.
+=137===================
+BAD KITTY!
+I CAN SEE
+WHY THEY PUT
+YOU DOWN HERE.
+=138===================
+YOU CAREFULLY PLACE
+THE BLOOD-FILLED
+SAUCER DOWN...
+=139===================
+AND THE FEARSOME FELINE
+STARTS TO PURR, LAPPING
+UP THE DEMONIC DRINK.
+=140===================
+WHO'S A GOOD
+KITTY THEN?!
+=141===================
+YOU GET A FIRM
+GRIP ON THE SWORD
+AND PULL AS HARD
+AS YOU CAN...
+=142===================
+...BUT IT SEEMS
+TO BE SET IN
+THE STONE AND
+JUST WON'T BUDGE.
+=143===================
+YOU SIT DOWN AND
+READ THE FENCING
+MANUAL FROM COVER
+TO COVER...
+=144===================
+OH IT'S ABOUT
+"FENCING" THE SPORT!
+=145===================
+THE CHAPTER ABOUT
+"REMOVING A BLADE
+STUCK IN THE WALL"
+PROVES VERY
+USEFUL AND YOU
+PULL THE LARGE
+SWORD FREE.
+=146===================
+THE MALLET EASILY
+BREAKS THROUGH THE
+CELLAR WALL...
+=147===================
+SOB, GO AWAY
+AND LEAVE ME
+TO MY MISERY
+WILL YOU?! SOB.
+=148===================
+OH DEAR,
+WHAT EVER IS
+THE MATTER?
+=149===================
+AN EVIL VICAR
+CURSED ME TO
+REMAIN YOUNG AND
+BEAUTIFUL FOREVER!
+=150===================
+REALLY? THAT'S
+NOT SUCH A BAD
+THING, IS IT?
+=151===================
+SOB, OH YOU
+DON'T UNDERSTAND,
+I WAS ONCE THE
+UGLIEST WITCH
+IN ALL THE LAND.
+=152===================
+MY WARTS WON
+AWARDS YOU KNOW!
+=153===================
+BUT NOW I
+MUST LIVE HERE
+WITH NOTHING BUT
+THESE MIRRORS.
+SOB.
+=154===================
+AH, I SEE. IF
+I HELP YOU WILL
+YOU LET ME PASS?
+=155===================
+SOB, YES I
+SUPPOSE. BUT
+HOW CAN A
+LITTLE EGG LIKE
+YOU HELP ME?
+BE GONE! SOB.
+=156===================
+HERE'S SOME POTION
+IT'LL HAVE YOU BACK
+TO YOUR HAGGARD OLD
+SELF IN NO TIME!
+=157===================
+THE GIRL DRINKS
+THE POTION AND
+PURSES THE REMAINS
+ON HER HEAD.
+=158===================
+OH IT'S WORKING!
+LOOK I'M GETTING
+WRINKLIER BY THE
+SECOND. THANK YOU
+EGG, YOU MAY
+NOW PASS FREELY.
+=159===================
+HOW NICE,
+I CAN FEEL
+MY WART HAIRS
+GROWING BACK!
+=160===================
+THANKS FOR HELP: 
+HIPPIMAN
+VK007
+TITUS
+TRZ
+BENEFACTOR
+=161===================
+OY! GET OUT
+OF MY ROOM!
+=162===================
+OH, ERM, AHEM...
+ROOM SERVICE, SIR!
+=163===================
+I'M JUST CHECKING
+EVERYTHING'S OKAY?
+=164===================
+DON'T BOTHER ME!
+JUST GET OUT!
+=165===================
+WHILE THE REST
+IS SCREAMING,
+YOU SEE
+AN INTERESTING
+SAUCER ON
+THE TABLE.
+=166===================
+NOTHING SIR,
+JUST LEAVING!
+=167===================
+I SAID GET OUT!
+=168===================
+the evil tree
+throws you away
+with its branches.
+=169===================
+The tree waved
+a branch in
+your direction.
+=170===================
+but the fencing
+manual was not
+read in vain.
+=171===================
+one swing of
+the broadsword
+and the branch
+was gone.
+=172===================
+now you can get
+what is hidden
+in the roots
+of the tree.
+=173===================
+THAT ROPE LOOKS LIKE
+IT MIGHT BE USEFUL.
+=174===================
+YOU TUG ON THE
+ROPE AND IT FALLS
+TO THE GROUND IN A
+NEAT LITTLE BUNDLE!
+=175===================
+IF I had anything
+to CLIMB UP
+on this gargoyle.
+=176===================
+YOU THROW THE ROPE
+UP AND AND HOOK IT
+OVER THE GARGOYLE...
+=177===================
+THE ROPE hooked WELL.
+=178===================
+NOT BAD, NOW I CAN CLIMB UP.
+=179===================
+After spending
+some time,
+YOU managed
+to open
+the window.
+=180===================
+THE WINDOW DOES NOT OPEN.
+=181===================
+WOO, WOOO, WOOOO!
+=182===================
+OH NO, GHOSTS!!!
+=183===================
+WOOo, WOOO-ULD YOU
+LIKE YOUR WWWINDOWS
+WWWASHED SIR?
+=184===================
+ERR, PARDON?
+=185===================
+WWE WWWERE WW-ONCE
+THE FINEST SHINERS
+AROUND, BUT SINCE
+OUR UNTIMELY DEATHS
+WWWE AREN'T WWORKING!
+=186===================
+OH DEAR...
+
+...DID YOU SAY,
+UNTIMELY DEATHS?
+=187===================
+WWE WWWERE WWWASHING
+THIS HOTEL'S FILTHY
+WWWINDOWS WWHEN
+OUR GOLDEN LADDER
+WWWAS STOLEN FROM
+UNDER US...
+=188===================
+AND WWWE PLUNGED
+TO OUR DOOM!
+=189===================
+HOW AWFUL, AND
+NOW YOU JUST
+HAUNT THIS PLACE?
+=190===================
+WWE CAN'T REST UNTIL
+WWWE FIND PEACE.
+=191===================
+NOWWW, SET US FREE
+OR LEAVE US BE!
+=192===================
+THE SPIRITS CIRCLE
+AROUND THE ROOM,
+WOO-ING AND FRO-ING.
+=193===================
+EXCUSE ME GHOSTS.
+I'VE FOUND THIS
+BUCKET, DOES IT
+BELONG TO YOU?
+=194===================
+OUR GOLDEN BUCKET,
+WWWOOO HOOO!
+WWWE'VE BEEN LOOKING
+FOR IT SINCE WWWE
+DIED, NOW WW-ONE
+OF US CAN DEPART!
+=195===================
+I FOUND THIS
+OUTSIDE, IS IT
+YOUR WINDOW LADDER?
+=196===================
+WWWHY YES IT IS!
+YOU'VE BROUGHT ME
+PEACE OF MIND
+WWWITH THIS FIND.
+GOOODBYE!..
+=197===================
+I THINK I'VE GOT
+THE ONE OF THE THINGS
+THAT WILL ALLOW
+YOU TO MOVE ON.
+=198===================
+THE GOLDEN SQUEEGEE,
+OUR MOST PRIZED
+OF POSSESSIONS!
+THANK YOU KIND EGG,
+BE SEEING WOOOO!
+=199===================
+YOU DIP THE
+SAUCER IN THE
+POOL OF BLOOD
+AND FILL IT...
+=200===================
+YOU MANAGED
+TO BREAK
+A PIECE OF
+OLD TILES.
+=201===================
+DAISY, DAISY!
+=202===================
+YAWN. DIZZY, WHERE
+HAVE YOU BEEN?..
+=203===================
+I, I, ERM...
+I WAS JUST GETTING
+YOU A SURPRISE,
+BREAKFAST IN BED!
+=204===================
+OH DIZZY! WHAT A
+LOVELY THOUGHT.
+FIRST THE BEST
+NIGHT'S SLEEP I'VE
+HAD FOR AGES
+AND NOW THIS!
+=205===================
+THE APPRECIATIVE EGG
+STARTS MUNCHING AWAY
+AT HER BREAKFAST...
+=206===================
+MMM, THAT'S YUMMY.
+WHAT A GREAT GETAWAY
+THIS HAS BEEN!
+=207===================
+AS SOON AS I'VE
+EATEN THIS I'M GOING
+DOWNSTAIRS TO BOOK
+US AN EXTRA NIGHT.
+=208===================
+EEEK!
+
+NOOOOO!
+=209===================
+CONGRATULATIONS!
+
+YOU FINISHED THE GAME!
+=210===================
+РАЗРАБОТКА, ГРАФИКА
+VERM-V
+
+MUSIC
+Wally Eleksiriuzmus
+
+GAME WAS MADE WITH
+DIZZY SCRIPTING ENGINE
+by HIPPIMAN
